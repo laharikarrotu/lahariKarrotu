@@ -1,4 +1,4 @@
-# LahariKarrotu
+
 # 💫About Me :
 Hi, I’m Lahari Karrotu, a passionate Software Engineer with a strong foundation in building scalable, data-driven solutions. With over 3 years of experience in software development and data engineering, I specialize in:
 
