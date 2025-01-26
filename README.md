@@ -1,27 +1,203 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=200&text=Lahari%20Karrotu&fontSize=40&animation=fadeIn"/>
 
-# 💫About Me :
-Hi, I’m Lahari Karrotu, a passionate Software Engineer with a strong foundation in building scalable, data-driven solutions. With over 3 years of experience in software development and data engineering, I specialize in:
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=Data+Engineer;ETL+Pipeline+Specialist;Big+Data+Solutions+Architect;AWS+Cloud+Expert" alt="Typing SVG" />
 
-Designing and implementing distributed systems and RESTful APIs.
-Developing ETL pipelines and optimizing workflows using AWS services like Lambda, S3, and Redshift.
-Crafting high-performance applications with Python, Java, and C++, leveraging data structures and algorithms.
-Integrating AI/ML models into real-world applications for predictive analytics and natural language processing.
-I thrive on solving complex, ambiguous problems and delivering impactful, business-oriented solutions. My goal is to create seamless, scalable systems that enhance user experiences and drive efficiency.
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=laharikarrotu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <a href="https://www.linkedin.com/in/lahari-karrotu/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahari-karrotu/"/></a>
+  </p>
+</div>
 
-🌟 Interests: Cloud computing, distributed systems, AI/ML integration, and scalable application development.
-📬 Let’s Connect: Feel free to check out my repositories or reach out via laharikarrothu@gmail.com or https://www.linkedin.com/in/laharikarrotu/.
+## 👩‍💻 About Me
+Passionate Data Engineer with extensive experience in building and optimizing data pipelines, implementing cloud-native ETL solutions, and driving data-driven decision making. Currently pursuing MS in Computer Science at Florida Institute of Technology, specializing in Big Data Analytics and Data Science.
 
-hobbies are chess, exploring new things, 
+### What I Bring to the Table:
+- 🔄 Reduced data processing time by 30% through optimized ETL pipeline development
+- 📊 Expertise in processing and analyzing 1TB+ daily data volumes
+- ☁️ Proven track record in AWS cloud infrastructure optimization
+- 🚀 Improved system performance by 40% using advanced SQL optimization
+- 🔧 Automated critical workflows reducing manual intervention by 40%
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laharikarrotu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LKarrotu) 
+## 🛠️ Technical Expertise
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=laharikarrotu&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 🔧 Core Competencies
 
----
-[![](https://visitcount.itsvg.in/api?id=laharikarrotu&icon=9&color=6)](https://visitcount.itsvg.in)
+```mermaid
+mindmap
+  root((Data Engineering))
+    ETL Pipeline Development
+      Apache Spark
+      AWS Glue
+      Databricks
+      Apache NiFi
+    Stream Processing
+      Apache Kafka
+      AWS Kinesis
+      Real-time Analytics
+      Event Processing
+    Big Data Technologies
+      Hadoop Ecosystem
+      MapReduce
+      HDFS
+      YARN
+    Data Architecture
+      Data Modeling
+      Schema Design
+      Data Governance
+      Data Security
+```
+
+### 🛠️ Technical Stack Matrix
+
+| Category | Tools & Technologies | Expertise |
+|----------|---------------------|-----------|
+| **ETL/ELT** | Apache Spark, AWS Glue, Databricks, Airflow | ⭐⭐⭐⭐⭐ |
+| **Stream Processing** | Apache Kafka, AWS Kinesis, Storm | ⭐⭐⭐⭐ |
+| **Data Lakes** | AWS S3, Delta Lake, Data Catalogs | ⭐⭐⭐⭐⭐ |
+| **Data Warehousing** | Redshift, Snowflake, BigQuery | ⭐⭐⭐⭐ |
+
+### ☁️ Cloud Architecture Expertise
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[AWS Cloud Infrastructure] --> B[Compute]
+    A --> C[Storage]
+    A --> D[Database]
+    A --> E[Analytics]
+    A --> F[Integration]
+    
+    B --> B1[Lambda]
+    B --> B2[EC2]
+    B --> B3[ECS]
+    B --> B4[EMR]
+    
+    C --> C1[S3]
+    C --> C2[EFS]
+    C --> C3[Glacier]
+    
+    D --> D1[RDS]
+    D --> D2[DynamoDB]
+    D --> D3[Redshift]
+    
+    E --> E1[Athena]
+    E --> E2[QuickSight]
+    E --> E3[EMR]
+    
+    F --> F1[SNS/SQS]
+    F --> F2[Step Functions]
+    F --> F3[EventBridge]
+
+    style A fill:#ff9900,stroke:#fff,stroke-width:2px
+```
+
+</div>
+
+### 🔄 Data Pipeline Architecture
+
+| Pipeline Type | Technologies | Use Cases |
+|--------------|--------------|----------|
+| **Batch Processing** | AWS Glue, EMR, Spark | Data Warehousing, Daily Aggregations |
+| **Stream Processing** | Kinesis, MSK, Lambda | Real-time Analytics, Event Processing |
+| **ML Pipelines** | SageMaker, Step Functions | Model Training, Inference |
+| **ETL Workflows** | Airflow, AWS Glue | Data Integration, Transformation |
+
+### Languages & Frameworks
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Core Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Big Data** | ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black) |
+| **ML/AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) |
+
+</div>
+
+### 💾 Database Technologies & Expertise
+
+<div align="center">
+
+```mermaid
+graph TB
+    DB[Database Expertise] --> RDBMS[RDBMS Systems]
+    DB --> NOSQL[NoSQL Solutions]
+    DB --> WARE[Data Warehousing]
+    DB --> CACHE[Caching Systems]
+    DB --> SEARCH[Search Engines]
+    
+    RDBMS --> PostgreSQL
+    RDBMS --> MySQL
+    RDBMS --> Oracle
+    
+    NOSQL --> MongoDB
+    NOSQL --> DynamoDB
+    NOSQL --> Cassandra
+    
+    WARE --> Redshift
+    WARE --> Snowflake
+    WARE --> BigQuery
+    
+    CACHE --> Redis
+    CACHE --> Memcached
+    
+    SEARCH --> Elasticsearch
+    SEARCH --> Solr
+
+    classDef default fill:#232F3E,stroke:#FF9900,stroke-width:2px;
+    classDef category fill:#146EB4,stroke:#FF9900,stroke-width:4px;
+    class DB,RDBMS,NOSQL,WARE,CACHE,SEARCH category
+```
+
+| Category | Primary Tools | Experience Level |
+|----------|--------------|------------------|
+| **RDBMS** | PostgreSQL, MySQL, Oracle | ⭐⭐⭐⭐⭐ |
+| **NoSQL** | MongoDB, DynamoDB, Cassandra | ⭐⭐⭐⭐ |
+| **Data Warehouse** | Redshift, Snowflake, BigQuery | ⭐⭐⭐⭐⭐ |
+| **Caching** | Redis, Memcached | ⭐⭐⭐⭐ |
+| **Search** | Elasticsearch, Solr | ⭐⭐⭐ |
+
+</div>
+
+## 📊 Analytics & Contributions
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=laharikarrotu&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+## 🎯 Current Focus
+- Building scalable data pipelines for real-time analytics
+- Implementing ML models in production environments
+- Optimizing cloud infrastructure costs
+- Exploring streaming analytics solutions
+
+## 🌱 Professional Development
+- AWS Certified Data Analytics - Specialty
+- AWS Certified Solutions Architect
+- Databricks Certified Associate Developer
+- Apache Spark Developer Certification
+
+## 📬 Get in Touch
+I'm always interested in discussing:
+- Data Engineering Best Practices
+- Cloud Architecture
+- ETL Pipeline Optimization
+- Big Data Technologies
+- Machine Learning Operations
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lahari-karrotu/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me)](https://laharicollective.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laharikarrothu@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
