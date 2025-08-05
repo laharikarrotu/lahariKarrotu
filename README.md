@@ -103,18 +103,18 @@ graph TB
 
 ## 💼 Professional Experience
 
-### **Full Stack AI Engineer** @ Arkatech Solutions *(May 2024 - Present)*
+### **Full Stack AI Engineer** @ Arkatech Solutions *(May 2025 - Present)*
 - 🏗️ **SmartBuy eCommerce Platform**: Built complete full-stack AI application with React frontend and FastAPI backend
 - 🤖 **Auto Loan AI Plugin**: Integrated AWS Textract OCR and voice assistants, reducing processing time by 40%
 - ☁️ **Infrastructure Automation**: Automated Azure deployments with Terraform, cutting deployment cycles by 40%
 
-### **AI/ML Full Stack Developer** @ Anguliyam *(Aug 2023 - May 2024)*
+### **AI/ML Full Stack Developer** @ Anguliyam *(Aug 2024 - May 2025)*
 - 🚂 **Railway Predictive Maintenance**: Developed TensorFlow-based system reducing downtime by 30%
 - 📊 **Real-time Dashboards**: Created React dashboards for system monitoring and alerts
 - 🗣️ **Voice Navigation**: Integrated LLM APIs for voice-powered fitness app recommendations
 - 🏢 **Enterprise Solutions**: Built proprietary applications with advanced AI capabilities (*private repos*)
 
-### **Big Data Engineer** @ Cognizant *(Jan 2022 - Aug 2023)*
+### **Big Data Engineer** @ Cognizant *(Jan 2022 - Aug 2022)*
 - 📈 **ETL Pipelines**: Built pipelines processing 5TB+ monthly data using Apache Spark and Kafka
 - 🚀 **Performance Optimization**: Reduced query latency by 30% through SQL/NoSQL database tuning
 - 🔧 **Scalable APIs**: Developed Java and Python APIs supporting 15+ projects
