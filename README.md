@@ -99,3 +99,17 @@ AI-powered loan processing with OCR and voice assistants.
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 </div>
+
+---
+
+## 💬 Let's Connect
+
+I'm open to discussing new opportunities, collaborative projects, and technical challenges in full-stack development and AI/ML integration. Always happy to connect with fellow developers and share knowledge.
+
+**Interested in:**
+- Full-stack engineering opportunities
+- AI/ML integration projects
+- Technical discussions and knowledge sharing
+- Open source collaborations
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/laharikarrotu/) or [Email](mailto:laharikarrotu24@gmail.com).
