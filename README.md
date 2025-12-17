@@ -12,7 +12,7 @@
 
 ## 🚀 What I Build
 
-I build full-stack applications with **AI/ML integration**, focusing on computer vision, predictive analytics, and intelligent automation. My work spans from eCommerce platforms with AI assistants to real-time ML systems for industrial applications.
+Full-stack engineer passionate about integrating AI into real-world systems — from computer vision and predictive analytics to real-time automation. I've built e-commerce tools, LLM-powered assistants, and ML pipelines for healthcare and industrial domains.
 
 ---
 
