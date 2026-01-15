@@ -50,18 +50,6 @@ I design and deploy AI solutions that **operate at scale** and **deliver measura
 **Frontend & Full Stack:** React, TypeScript, Node.js  
 **Databases:** Milvus, Pinecone, SQL/NoSQL  
 
----
-
-## 📌 Recommended Pinned Repositories
-
-1. **ScanToActionAI‑SCANX** – Real-time AI agent combining vision + LLM reasoning  
-2. **Blinds‑BoundariesOnline** – Vision-based backend + Azure pipelines  
-3. **SmartBuy_v2** – RAG / LLM-powered commerce assistant  
-4. **AI Job Hunter** – LLM-driven job search automation  
-
-> 🔹 *Tip:* Hide generic web apps (Taskify-pro, fitness app) to keep focus on AI systems.
-
----
 
 ## 📫 Connect with Me
 
