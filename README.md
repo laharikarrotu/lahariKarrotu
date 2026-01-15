@@ -1,115 +1,72 @@
 # 👋 Hi, I'm Lahari Karrotu
 
-**Full Stack Software Engineer** building AI-powered applications and cloud-native systems.
+**AI Systems Engineer | Backend & Distributed AI Infrastructure**
 
-<div align="center">
-
-[🌐 Portfolio](https://laharikarrotuportfolio.site/) • [💼 LinkedIn](https://www.linkedin.com/in/laharikarrotu/) • [✉️ Email](mailto:laharikarrotu24@gmail.com)
-
-</div>
+I build **scalable AI systems**, **LLM-powered agents**, and **production-grade ML pipelines** that bridge cutting-edge AI models with real-world applications.  
+My work focuses on **distributed inference**, **low-latency AI pipelines**, and **fault-tolerant backend systems**.
 
 ---
 
 ## 🚀 What I Build
 
-Full-stack engineer passionate about integrating AI into real-world systems — from computer vision and predictive analytics to real-time automation. I've built e-commerce tools, LLM-powered assistants, and ML pipelines for healthcare and industrial domains.
+I design and deploy AI solutions that **operate at scale** and **deliver measurable impact**:
+
+- **Distributed LLM Systems**: Multi-agent pipelines, prompt orchestration, and GPU-accelerated inference using **Ray**, **LangChain**, and **Python**.  
+- **Real-Time Predictive Analytics**: Predictive maintenance and event detection systems using **Spark**, **AWS**, and **streaming architectures**.  
+- **Multimodal AI Pipelines**: Computer vision + NLP integrations for interactive applications, leveraging **Azure**, **FastAPI**, and **cloud storage**.  
+- **RAG / LLM Applications**: Retrieval-Augmented Generation pipelines for enterprise knowledge, task automation, and intelligent agents.
 
 ---
 
-## 💻 Tech Stack
+## 💼 Highlighted Projects
 
-<div align="center">
+### 1️⃣ Scan-to-Action AI (ScanToActionAI‑SCANX)
+**Tech:** Python, FastAPI, Vision + LLM, Real-Time Agent  
+- A **real-time AI agent** that interprets interfaces, understands tasks, and executes actions autonomously.  
+- Combines **computer vision and LLM-based reasoning** for **multi-step agent orchestration**.  
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 2️⃣ Blinds & Boundaries (Blinds‑BoundariesOnline)
+**Tech:** Python, FastAPI, React, Azure, Computer Vision  
+- Developed a **vision-based virtual try-on system** for window blinds with real-time inference pipelines.  
+- Integrated backend + frontend to provide a **production-ready visual AI experience**.  
 
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### 3️⃣ SmartBuy AI (SmartBuy_v2)
+**Tech:** Python, LangChain, Pinecone, LLMs  
+- Built an **AI commerce assistant** with RAG capabilities, enabling **automated responses and product recommendations**.  
+- Designed **multi-step agent orchestration pipelines** with low-latency query retrieval.  
 
-**AI/ML & Data**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-</div>
+### 4️⃣ AI Job Hunter (ai-job-hunter)
+**Tech:** Python, FastAPI, LangChain, OpenAI API  
+- LLM-powered assistant for **job search automation and application tracking**.  
+- Implemented structured prompts and **backend services for real-time recommendations**.  
 
 ---
 
-## 🎯 Featured Projects
+## 🛠 Tech Stack
 
-### 🤖 SmartBuy AI eCommerce Platform
-Full-stack platform with AI-powered navigation and intelligent product recommendations.
-
-**Impact:** `25%` increase in user engagement • `35%` reduction in infrastructure costs  
-**Tech:** React • TypeScript • Next.js • FastAPI • AWS Lambda • Gemini API
-
----
-
-### 👁️ Blinds & Boundaries - Virtual Try-On
-Computer vision application enabling real-time product visualization in customer spaces.
-
-**Impact:** `90%+` window detection accuracy • `3-5s` processing time  
-**Tech:** React • TypeScript • FastAPI • OpenCV • TensorFlow • Three.js • WebGL • Azure
+**AI & ML:** LLMs, NLP, RAG, Computer Vision, Multimodal AI, Real-Time Inference  
+**Backend:** Python, FastAPI, Flask, Distributed Systems, Ray  
+**Cloud & Infra:** Azure, AWS, Docker  
+**Frontend & Full Stack:** React, TypeScript, Node.js  
+**Databases:** Milvus, Pinecone, SQL/NoSQL  
 
 ---
 
-### 🚂 Railway Predictive Maintenance System
-Real-time ML system processing sensor data streams to predict equipment failures.
+## 📌 Recommended Pinned Repositories
 
-**Impact:** `30%` reduction in downtime • `90%+` model accuracy  
-**Tech:** Python • TensorFlow • Apache Spark • AWS Lambda • React
+1. **ScanToActionAI‑SCANX** – Real-time AI agent combining vision + LLM reasoning  
+2. **Blinds‑BoundariesOnline** – Vision-based backend + Azure pipelines  
+3. **SmartBuy_v2** – RAG / LLM-powered commerce assistant  
+4. **AI Job Hunter** – LLM-driven job search automation  
 
----
-
-### 📄 Auto Loan AI Processing System
-AI-powered loan processing with OCR and voice assistants.
-
-**Impact:** `40%` reduction in processing time • `95%+` OCR accuracy  
-**Tech:** React • TypeScript • Python • FastAPI • AWS Textract • Lambda
+> 🔹 *Tip:* Hide generic web apps (Taskify-pro, fitness app) to keep focus on AI systems.
 
 ---
 
-## 🏆 Certifications
+## 📫 Connect with Me
 
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow_Developer-81B5A1?style=flat&logo=servicenow&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/lahari-karrotu)  
+- [Portfolio](https://laharikarrotuportfolio.site)  
+- Email: laharikarrotu24@gmail.com  
 
 ---
-
-## 💬 Let's Connect
-
-I'm open to discussing new opportunities, collaborative projects, and technical challenges in full-stack development and AI/ML integration. Always happy to connect with fellow developers and share knowledge.
-
-**Interested in:**
-- Full-stack engineering opportunities
-- AI/ML integration projects
-- Technical discussions and knowledge sharing
-- Open source collaborations
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/laharikarrotu/) or [Email](mailto:laharikarrotu24@gmail.com).
