@@ -70,19 +70,24 @@ I prefer building systems that are **reliable, maintainable, and designed with r
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Languages" />
+<a href="https://github.com/laharikarrotu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/laharikarrotu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+<a href="https://github.com/laharikarrotu">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=dark" alt="GitHub Streak" />
+</a>
 
 </div>
 
