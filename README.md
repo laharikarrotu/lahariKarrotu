@@ -74,11 +74,15 @@ I prefer building systems that are **reliable, maintainable, and designed with r
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 
 </div>
 
