@@ -135,13 +135,13 @@ Virtual try-on for window blinds from room photos (**Azure Computer Vision → G
 
 <div align="center">
 
-### GitHub activity
+### Stats and languages
 
 <a href="https://github.com/laharikarrotu">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58A6FF" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400" alt="Lahari Karrotu — GitHub statistics (commits, stars, contributions)" />
 </a>
-
-<sub>Profile README · <a href="https://github.com/laharikarrotu">laharikarrotu</a></sub>
+<a href="https://github.com/laharikarrotu">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&cache_seconds=86400" alt="Lahari Karrotu — most-used languages on GitHub" />
+</a>
 
 </div>
