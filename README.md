@@ -130,18 +130,3 @@ Virtual try-on for window blinds from room photos (**Azure Computer Vision → G
 | **B.Tech Computer Science** | KL University, India | Aug 2018 – May 2022 | **8.7 / 10** |
 
 **Certifications:** AWS Certified Solutions Architect · ServiceNow Certified System Administrator · Cisco CCNA (Switching, Routing & Wireless)
-
----
-
-<div align="center">
-
-### Stats and languages
-
-<a href="https://github.com/laharikarrotu">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400" alt="Lahari Karrotu — GitHub statistics (commits, stars, contributions)" />
-</a>
-<a href="https://github.com/laharikarrotu">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&cache_seconds=86400" alt="Lahari Karrotu — most-used languages on GitHub" />
-</a>
-
-</div>
