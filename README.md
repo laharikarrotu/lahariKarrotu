@@ -1,31 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm Lahari Karrotu
+# Lahari Karrotu
 
-**Software Engineer** · Backend & Cloud Systems · Healthcare Tech
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Healthcare+Tech;FHIR+%C2%B7+AWS+%C2%B7+HIPAA-compliant+systems;Production+APIs+%C2%B7+Cloud+infrastructure+%C2%B7+Reliability" alt="Typing animation: role and focus areas" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karrotulahari/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laharikarrotu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karrotulahari/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laharikarrotu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laharikarrotu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-laharikarrotuportfolio.site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laharikarrotuportfolio.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laharikarrotuportfolio.site/)
 
-📍 **United States**
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Production backends, healthcare APIs, and cloud infrastructure
-
-Backend engineer with **3+ years** of experience building **production-grade, HIPAA-compliant** systems in healthcare. At **Cigna**, I work across the full backend stack — **FHIR microservices**, **AWS infrastructure**, and **production reliability**. I care about serialization edge cases, concurrency tuning, and infrastructure that only breaks under real load. Outside work, I build **AI-powered tools** that combine vision models, cloud APIs, and deliberate system design.
+**United States** · Open to opportunities
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## At a glance
+
+| | |
+|:---|:---|
+| **Focus** | Backend APIs, **FHIR / HL7**, AWS serverless, healthcare compliance, production reliability |
+| **Current** | **Software Engineer** @ **Cigna** (Aug 2024 – Present) |
+| **Background** | **3+ years** on production-grade, **HIPAA-compliant** systems |
+| **Also** | AI side projects — vision models, cloud APIs, thoughtful system design |
+
+---
+
+## Summary
+
+Backend engineer with **3+ years** in **healthcare tech**. At **Cigna** I work across **FHIR microservices**, **AWS**, and **production reliability** — API contracts and serialization, concurrency and connection pools, and infrastructure that serves a large member population. Outside work I build **AI-assisted tools** (vision, LLMs, structured backends) with security and auditability in mind.
+
+---
+
+## Tech stack
 
 <div align="center">
 
@@ -37,14 +44,14 @@ Backend engineer with **3+ years** of experience building **production-grade, HI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Web
+### Backend & web
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Cloud & Infra
+### Cloud & infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -52,13 +59,11 @@ Backend engineer with **3+ years** of experience building **production-grade, HI
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Databases
+### Data & AI
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Data & AI
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -67,122 +72,76 @@ Backend engineer with **3+ years** of experience building **production-grade, HI
 
 </div>
 
-**Also:** FHIR / HL7 · **HAPI FHIR** · OAuth 2.0 · OpenID Connect · HIPAA · SAFe Agile · **Pega BPM** · **ServiceNow** · IBM BPM · Splunk · New Relic · CloudWatch · SonarQube · CloudFormation · **Tesseract OCR** · **Playwright** · **DB2**
+| Area | Technologies |
+|:---|:---|
+| **Backend & web** | Spring Boot, FastAPI, React, Next.js, Node.js, **HAPI FHIR** |
+| **AWS** | Lambda, DynamoDB, S3, RDS, SQS, API Gateway, CloudWatch |
+| **Azure** | App Service, Blob Storage, Computer Vision |
+| **Infra & delivery** | Terraform, CloudFormation, Docker, Jenkins, GitHub Actions |
+| **Observability** | Splunk, New Relic, CloudWatch, SonarQube |
+| **Enterprise** | Pega BPM, ServiceNow, IBM BPM |
+| **Standards** | FHIR / HL7, OAuth 2.0, OpenID Connect, HIPAA, SAFe Agile |
+| **Also** | DB2, Tesseract OCR, Playwright |
 
 ---
 
-## 📊 GitHub Activity
+## Experience
+
+### Software Engineer — **Cigna** · United States  
+*Aug 2024 – Present*
+
+- **FHIR R4** REST APIs: translate legacy claims and eligibility into **HL7** resources for the **member mobile app** — serialization, bundle pagination, versioned profiles at scale.
+- **PII / PHI:** **Go** masking at **API Gateway** — redact sensitive fields before responses reach clients (**HIPAA** minimum-necessary).
+- **AWS serverless** for claims microservices: **Lambda**, **DynamoDB** access patterns, **SQS** DLQs, **API Gateway** throttling — **Terraform** & **CloudFormation**, least-privilege IAM across environments.
+- **Pega BPM** decision tables for adjudication / routing so **business** teams can update rules independently.
+- **Splunk** incident triage (Lambda, RDS, API Gateway): pool exhaustion, hot partitions — member login **5xx** from **3.2%** to **under 0.5%** in two sprints.
+- **SAFe Agile** with product, compliance, and distributed engineering across time zones.
+
+### Software Engineering Intern — **Zoho** · India  
+*Aug 2021 – May 2022*
+
+- Production **J2EE** SaaS backend (layered MVC); shipped **DB → API** features in Agile sprints.
+- Generic **JDBC** layer (**YAML** ↔ tables) replaced per-entity DAO boilerplate across **14** entities.
+- **Auth & sessions:** BCrypt (work factor **12**), **OTP 2FA** (JavaMail / SMTP TLS), idle timeout — multi-tenant production.
+- **MySQL:** removed N+1, indexed JOINs — **~4.8s → under 200ms** on realistic data.
+
+---
+
+## Featured projects
+
+### HealthScan — AI healthcare assistant  
+`FastAPI` · `Python` · `Next.js` · `Gemini` · `GPT-4o` · `PostgreSQL` · `Playwright` · `JWT`
+
+Multimodal assistant: prescription photo → extraction (**GPT-4o** / **Gemini** vision) → **RxNorm** interaction checks → personalized guidance. **Vision → Planner → Executor** pipeline normalizes multi-vendor LLM output, schema drift, **PII scrubbing**, **audit logging**, and **JWT** APIs with **HIPAA-readiness** in mind.
+
+### Blinds & Boundaries Online — AI virtual try-on  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/laharikarrotu/Blinds-BoundariesOnline)  
+`FastAPI` · `React` · `TypeScript` · `Azure App Service` · `Azure Computer Vision` · `OpenCV` · `Vercel` · `GitHub Actions`
+
+Virtual try-on for window blinds from room photos (**Azure Computer Vision → Gemini → OpenCV**). Perspective-aware rendering on **Azure App Service**; frontend on **Vercel**; **GitHub Actions** CI/CD; **LRU cache** and vectorized **NumPy** for image performance.
+
+---
+
+## Education & certifications
+
+| Degree | School | When | Notes |
+|:---|:---|:---|:---|
+| **M.S. Computer Science** (Systems, Data Engineering & Applied AI) | Florida Institute of Technology, Melbourne, FL | Aug 2022 – May 2024 | GPA **3.6 / 4.0** |
+| **B.Tech Computer Science** | KL University, India | Aug 2018 – May 2022 | **8.7 / 10** |
+
+**Certifications:** AWS Certified Solutions Architect · ServiceNow Certified System Administrator · Cisco CCNA (Switching, Routing & Wireless)
+
+---
 
 <div align="center">
+
+### GitHub activity
 
 <a href="https://github.com/laharikarrotu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/laharikarrotu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=laharikarrotu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharikarrotu&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58A6FF" alt="Top languages" />
 </a>
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/laharikarrotu">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laharikarrotu&theme=dark" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-### 🤖 AI / Healthcare
-
-#### 🏥 HealthScan — AI Healthcare Assistant
-
-> Multimodal assistant: prescription photo → medication extraction (**GPT-4o**, **Gemini** vision), **RxNorm** cross-check for interactions, and personalized diet/lifestyle guidance in one pipeline for clinical-adjacent use.
-
-> Three-layer architecture (**Vision Engine → Planner → Executor**) normalizes outputs across LLM providers, handles schema drift, routes downstream actions, and includes **PII scrubbing**, **audit logging**, and **JWT**-authenticated APIs with HIPAA-readiness in mind.
-
-**Tech:** `FastAPI` `Python` `Next.js` `Gemini` `GPT-4o` `PostgreSQL` `Playwright` `JWT`
-
----
-
-#### 👁️ Blinds & Boundaries Online — AI Virtual Try-On
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/laharikarrotu/Blinds-BoundariesOnline)
-
-> Virtual try-on for window blinds: room photos → in-place product preview under uneven lighting, angles, and non-rectangular frames via **Azure Computer Vision → Gemini → OpenCV** fallback.
-
-> Perspective-corrected overlays, shadows, and depth-aware rendering on **Azure App Service** with **GitHub Actions** CI/CD; **Vercel** frontend; **O(1) LRU cache** and vectorized **NumPy** for faster image work.
-
-**Tech:** `FastAPI` `React` `TypeScript` `Azure App Service` `Azure Computer Vision` `OpenCV` `Vercel` `GitHub Actions`
-
----
-
-## 💼 Experience
-
-<div align="left">
-
-### 💻 Software Engineer
-**Cigna** · United States | *Aug 2024 – Present*
-
-- Build and maintain **FHIR R4** REST APIs translating legacy claims and eligibility into HL7 resources for the member mobile app — serialization, bundle pagination, and versioned profiles at scale.
-- **PII/PHI protection:** Golang masking pipeline at **API Gateway** redacting sensitive fields before responses reach clients (HIPAA minimum-necessary).
-- **AWS serverless** for claims microservices: Lambda, **DynamoDB** key design, **SQS** DLQs, API Gateway throttling — **Terraform** & **CloudFormation**, least-privilege IAM across environments.
-- **Pega BPM** decision tables for adjudication and routing so business teams can update rules independently.
-- Production triage with **Splunk** (Lambda, RDS, API Gateway); addressed pool exhaustion and hot partitions — improved member login **5xx** rate from **3.2%** to **under 0.5%** over two sprints.
-- **SAFe Agile** delivery with product, compliance, and distributed engineering across time zones.
-
-### 🔧 Software Engineering Intern
-**Zoho** · India | *Aug 2021 – May 2022*
-
-- Backend modules for a live **J2EE** SaaS product (layered MVC), shipping database-to-API features in Agile sprints.
-- Generic **JDBC** data access layer (**YAML**-to-table mapping) replacing per-entity DAO boilerplate across **14** entities.
-- **Auth & sessions:** BCrypt (work factor 12), **OTP 2FA** via JavaMail with SMTP TLS, idle timeout for multi-tenant production.
-- **MySQL** tuning: removed N+1 patterns with indexed JOINs — page loads from **~4.8s** to **under 200ms** on realistic data.
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-**🎓 M.S. Computer Science** — Systems, Data Engineering & Applied AI  
-Florida Institute of Technology · Melbourne, FL · *Aug 2022 – May 2024* · GPA: **3.6 / 4.0**
-
-**🎓 B.Tech Computer Science**  
-KL University · India · *Aug 2018 – May 2022* · **8.7 / 10**
-
-</div>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-**AWS Certified Solutions Architect** — Amazon Web Services  
-**ServiceNow Certified System Administrator** — ServiceNow  
-**Cisco CCNA: Switching, Routing & Wireless** — Cisco
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-I'm open to discussing opportunities, collaboration, and hard technical problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karrotulahari/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laharikarrotu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laharikarrotuportfolio.site/)
-
----
-
-⭐️ From [laharikarrotu](https://github.com/laharikarrotu)
+<sub>Profile README · <a href="https://github.com/laharikarrotu">laharikarrotu</a></sub>
 
 </div>
